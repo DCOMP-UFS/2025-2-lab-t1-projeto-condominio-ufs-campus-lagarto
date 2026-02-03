@@ -1,6 +1,6 @@
 🏢 Condomínio de Laboratórios de Pesquisa
 Infraestrutura Compartilhada para Grupos de Pesquisa em Saúde, Educação e Ciências Aplicadas
-🔗 Site do projeto: 54.81.65.65
+🔗 Site do projeto: http://54.81.65.65/
 
 
 📌 Apresentação
