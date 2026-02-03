@@ -1,7 +1,7 @@
 🏢 Condomínio de Laboratórios de Pesquisa
 Infraestrutura Compartilhada para Grupos de Pesquisa em Saúde, Educação e Ciências Aplicadas
-🔗 Site do projeto:
-http://ec2-100-53-12-218.compute-1.amazonaws.com/
+🔗 Site do projeto: 54.81.65.65
+
 
 📌 Apresentação
 Este repositório descreve a proposta de implantação de um Condomínio de Laboratórios de Pesquisa, modelo de infraestrutura científica multiusuária, no qual cada laboratório atende a um grupo de pesquisa específico, mas compartilha recursos tecnológicos, computacionais e de rede de forma integrada.
