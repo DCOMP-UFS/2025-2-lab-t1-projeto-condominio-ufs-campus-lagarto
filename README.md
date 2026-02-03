@@ -65,7 +65,7 @@ Média de uso semanal da infraestrutura
 
 💰 d) Lista de Itens e Orçamento
 🔬 Orçamento por Laboratório (cada grupo)
-Valor por laboratório: R$ 47.039,43
+Valor por laboratório: R$ 47.025,46
 Itens principais:
 Ar-condicionado
 Switch PoE 24 portas
